@@ -1,19 +1,14 @@
-# Hi, I'm Christob 👋
+# Hi there 👋, I'm Christob
 
-QA / SDET focused on end-to-end test automation, currently building out Playwright + TypeScript frameworks and exploring AI-assisted testing.
+**Test Automation Architect | Building frameworks & CI/CD pipelines | Mentoring teams at scale | Playwright • Selenium • AWS • Azure | 9+ yrs**
 
-## 🛠️ What I work with
+I'm a Test Automation Architect who loves designing clean, industry-standard automation frameworks for Web, API, and CI/CD, and sharing that work here on GitHub.
 
-- **Automation:** Playwright, Cucumber/BDD, TypeScript, Python (PyTest)
-- **Tooling:** GitHub Actions CI/CD, ESLint/Prettier, Husky
-- **Currently exploring:** LLM evaluation, agentic QE workflows
+**Skills:** Playwright, Selenium, TypeScript, Python, Cucumber/BDD, GitHub Actions, Docker, AWS, Azure
 
-## 📌 Featured projects
+- 🔭 I'm currently working on reusable Playwright + TypeScript and BDD/Cucumber E2E automation frameworks, and experimenting with LLM-assisted testing (`agentic-qe`)
+- 👯 I'm looking to collaborate on AI-assisted test automation / agentic QE
+- 💬 Ask me about Playwright, Selenium, TypeScript, Python, CI/CD, Test Strategy
+- 📫 How to reach me: christobj@gmail.com
 
-- [playwright-typescript-e2e-framework](https://github.com/christobj/playwright-typescript-e2e-framework) — Pure Playwright + TypeScript E2E framework with a page-object model, custom fixtures, and GitHub Actions CI
-- [playwright-cucumber-e2e-framework](https://github.com/christobj/playwright-cucumber-e2e-framework) — BDD-style E2E automation combining Playwright with Cucumber
-- [playwright-bdd-e2e-framework](https://github.com/christobj/playwright-bdd-e2e-framework) — Playwright-BDD based test automation
-
-## 📫 Reach me
-
-- Email: christobj@gmail.com
+[GitHub](https://github.com/christobj) · [LinkedIn](https://www.linkedin.com/in/christobj)
